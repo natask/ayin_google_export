@@ -1,0 +1,8 @@
+{
+  "name": "Ayin - AI Blind Assistant",
+  "description": "An AI-powered assistant for blind and visually impaired users. Interact entirely through voice. Press and hold the screen to start a conversation with your AI assistant.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
